@@ -21,7 +21,7 @@ body {
 	height: max-content;
 	border-bottom: 4px solid transparent;
 	display: inline;
-	transition: 1200ms;
+	transition: 400ms;
 }
 #navbar a:hover {
 	color: navy;
