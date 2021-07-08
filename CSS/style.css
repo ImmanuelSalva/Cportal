@@ -21,11 +21,12 @@ body {
 	height: max-content;
 	border-bottom: 4px solid transparent;
 	display: inline;
+	transition: 1200ms;
 }
 #navbar a:hover {
 	color: navy;
 	border-bottom-color: navy;
-	transition: 1200ms ease;
+	transition: 1200ms;
 }
 header {
 	border-bottom: 1.50px solid gainsboro;
